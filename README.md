@@ -22,15 +22,22 @@ ScholarSnap combines **OCR** and **AI/NLP** to offer a smarter study experience:
 
 ## Tech Stack
 
-| Layer           | Technologies Used                                         | Notes                                      |
-|-----------------|----------------------------------------------------------|--------------------------------------------|
-| Frontend/UI     | Streamlit                                                | Interactive web-based user interface       |
-| Backend Logic   | Python                                                   | Core logic for OCR, NLP, and UI integration|
-| AI/NLP          | Transformers (facebook/bart-large-cnn)                   | Summarization, citation extraction, tagging|
-| OCR             | pytesseract, PyMuPDF (fitz)                              | Text extraction from images and PDFs       |
-| PDF Export      | fpdf                                                     | Generates structured, downloadable PDFs    |
-| File Handling   | base64, Streamlit uploader                               | Upload, process, and download support      |
-| Deployment      | *(Planned)* Streamlit Cloud / Hugging Face Spaces       | Free and fast ML web app hosting platforms |
+| Layer           | Technologies Used                                        | Notes                                       |
+|-----------------|----------------------------------------------------------|---------------------------------------------|
+| Frontend/UI     | Streamlit                                                | Interactive web-based user interface        |
+| Backend Logic   | Python                                                   | Core logic for OCR, NLP, and UI integration |
+| AI/NLP          | Transformers (facebook/bart-large-cnn)                   | Summarization, citation extraction, tagging |
+| OCR             | pytesseract, PyMuPDF (fitz)                              | Text extraction from images and PDFs        |
+| PDF Export      | fpdf                                                     | Generates structured, downloadable PDFs     |
+| File Handling   | base64, Streamlit uploader                               | Upload, process, and download support       |
+| Deployment      | *(Planned)* Streamlit Cloud / Hugging Face Spaces        | Free and fast ML web app hosting platforms  | 
+
+## Project Status
+
+ScholarSnap is currently under active development.  
+Key features like OCR, summarization, and Q&A interface are being built and tested.  
+Stay tuned for updates, and feel free to star 🌟 the repository to follow along!
+
 
 ## How It Works
 
