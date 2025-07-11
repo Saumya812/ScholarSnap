@@ -35,8 +35,8 @@ ScholarSnap combines **OCR** and **AI/NLP** to offer a smarter study experience:
 ## Project Status
 
 ScholarSnap is currently under active development.  
-Key features like OCR, summarization, and Q&A interface are being built and tested.  
-Stay tuned for updates, and feel free to star 🌟 the repository to follow along!
+Few additional key features like OCR, summarization, and Q&A interface as well as advanced features like theme selection, usage tracker, session history are being built and tested.  
+Stay tuned for updates, and feel free to star the repository to follow along!
 
 
 ## How It Works
